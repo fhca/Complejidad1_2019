@@ -61,12 +61,6 @@ Complejidad 1
 
 [Liga a notas pasadas de este curso](https://github.com/fhca/Complejidad1\_2018)
 
-## Tareas
 
-Instrucciones: Todas las tareas por default son para entregarse dos semanas después de que se plantean, y únicamente podrán ser enviadas por correo electrónico. Es posible que si lo haces en tu cuaderno, me mandes fotos del mismo, asegurándote de que sean legibles.
-
-1. Leer el 1er tema del Mitchell, hacer un ensayo de 3 a 5 páginas tocando los puntos de los capítulos de la primera parte. Entregarlo el 2 de septiembre por correo electrónico (pdf doc o txt).
-
-2. Leer capítulos 4 y 5 del Devaney y realizar los siguientes ejercicios. Cap. 4: 1a, 2b, 4c; Cap. 5: 1d, 1j, 2b, 4e. No es necesario hacer ensayo de esto. Entregar los ejercicios el 9 de septiembre por correo electrónico.
 
 

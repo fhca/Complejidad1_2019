@@ -1,6 +1,16 @@
 # Complejidad1_2019
-Material para los cursos de Complejidad 1 y Sistemas Complejos 1 del semestre 2019-2
+*Materiales para los cursos de Complejidad 1 y Sistemas Complejos 1 del semestre 2019-2* 
 
-Consulta el documento principal con los datos del curso [aquí](https://github.com/fhca/Complejidad1_2019/blob/master/Complejidad%201%20_%20SC1.md).
+**Las tareas del curso las pondré hasta abajo de este documento.**
 
-Guía de uso. Te recomiendo que presiones el "botón verde" y descargues el ZIP de todos los archivos de este sitio y lo desempaques. Cuando hayan actualizaciones, borra todo y baja el ZIP de nuevo.
+Consulta el **documento principal** con los datos del curso en [Complejidad 1 _ SC1.md](https://github.com/fhca/Complejidad1_2019/blob/master/Complejidad%201%20_%20SC1.md).
+
+Guía de uso: Si no usas el sistema GIT, te recomiendo que presiones el "botón verde" de esta página y descargues el ZIP de todos los archivos de este sitio y lo desempaques. Cuando hayan actualizaciones, borra todo y baja el ZIP de nuevo.
+
+## Tareas
+
+Instrucciones: Todas las tareas por default son para entregarse dos semanas después de que se plantean, y únicamente podrán ser enviadas por correo electrónico. Es posible que si lo haces en tu cuaderno, me mandes fotos del mismo, asegurándote de que sean legibles.
+
+1. Leer el 1er tema del Mitchell, hacer un ensayo de 3 a 5 páginas tocando los puntos de los capítulos de la primera parte. Entregarlo el 2 de septiembre por correo electrónico (pdf doc o txt).
+
+2. Leer capítulos 4 y 5 del Devaney y realizar los siguientes ejercicios. Cap. 4: 1a, 2b, 4c; Cap. 5: 1d, 1j, 2b, 4e. No es necesario hacer ensayo de esto. Entregar los ejercicios el 9 de septiembre por correo electrónico.
