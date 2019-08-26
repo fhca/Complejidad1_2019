@@ -14,7 +14,7 @@ def logistica(r, x0=0.2, nvalores=1000):
 
 def feigenbaum(f, minimo=0, maximo=4, nr=5000, n=3000):
     erres = np.linspace(minimo, maximo, nr, endpoint=True)
-    plt.figure(figsize=(10, 8))
+    plt.figure(figsize=(10, 7))
     for i, r in enumerate(erres):
         "x=[r,r,r,...] n-veces"
         plt.plot(np.full(n, r), f(r, x0=f(r)[-1], nvalores=n),
@@ -22,4 +22,4 @@ def feigenbaum(f, minimo=0, maximo=4, nr=5000, n=3000):
     plt.show()
 
 
-feigenbaum(logistica, 2, 4)
+feigenbaum(logistica, 1, 4)

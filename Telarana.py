@@ -33,7 +33,7 @@ class Tela:
         hay que asignarle el l-ésimo renglón de self.x y self.y hasta la
         columna 2i-esima (i-esima iteración)"""
         for l, t in enumerate(self.tela):
-            t.set_data(self.x[l, :2*i], self.y[l, :2*i])
+            t.set_data(self.x[l, 2*i-100:2*i], self.y[l, 2*i-100:2*i])
         return self.tela
 
     def muestra(self, retardo=1000):  # retardo en milisegundos
@@ -50,7 +50,8 @@ class Tela:
 
 
 # logística
-Tela(lambda x: 3.5*x*(1-x), np.arange(0, 1, .01),
-     [.1], itera=30000).muestra(100)
+R = 4
+Tela(lambda x: R*x*(1-x), np.arange(0, 1, .01),
+     [.09], itera=300000).muestra(retardo=100)
 # Tela(lambda x: 3.5*x*(1-x), np.arange(0, 1, .01), [.9],
 #      itera=3000).muestra(retardo=20)
