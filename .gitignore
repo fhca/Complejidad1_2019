@@ -1,0 +1,5 @@
+libros
+libros/*
+.ipynb*
+.ipynb*/*
+.DS_Store
