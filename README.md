@@ -7,6 +7,12 @@ Consulta el **documento principal** con los datos del curso en [Complejidad 1 _ 
 
 Guía de uso: Si no usas el sistema GIT, te recomiendo que presiones el "botón verde" de esta página y descargues el ZIP de todos los archivos de este sitio y lo desempaques. Cuando hayan actualizaciones, borra todo y baja el ZIP de nuevo.
 
+## Representaciones de la Complejidad (enviado por Karla Guzmán)
+
+* [https://systemic-design.net/wp-content/uploads/2019/03/6-Boehnert.pdf](https://systemic-design.net/wp-content/uploads/2019/03/6-Boehnert.pdf)
+
+* [https://www.slideshare.net/ecolabs/cecan-oslo-boehnert-nov-2017](https://www.slideshare.net/ecolabs/cecan-oslo-boehnert-nov-2017)
+
 ## Tareas
 
 Instrucciones: Todas las tareas por default son para entregarse dos semanas después de que se plantean, y únicamente podrán ser enviadas por correo electrónico. Es posible que si lo haces en tu cuaderno, me mandes fotos del mismo, asegurándote de que sean legibles.
