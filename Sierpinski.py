@@ -14,24 +14,6 @@ def sierpinski(triangulo):
             (ca, bc, c))
 
 
-def sierpinski2(triangulo):
-    "toma un triángulo y devuelve 3, torcido"
-    a, b, c = triangulo
-    pc = .01
-    ri = np.random.randint(3, size=3)
-    rn = np.random.rand(3)
-    r = triangulo[ri[0]]*pc*rn[0]
-    ab = (a+b)/2+r
-    r = triangulo[ri[1]]*pc*rn[1]
-    ca = (c+a)/2+r
-    r = triangulo[ri[2]]*pc*rn[2]
-    bc = (b+c)/2+r
-
-    return (np.array((a, ab, ca)),
-            np.array((ab, b, bc)),
-            np.array((ca, bc, c)))
-
-
 s = [(np.array([0, 0]),
       np.array([1, 0]),
       np.array([.5, .866]),

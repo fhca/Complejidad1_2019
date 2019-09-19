@@ -20,3 +20,5 @@ Instrucciones: Todas las tareas por default son para entregarse dos semanas desp
 1. Leer el 1er tema del Mitchell, hacer un ensayo de 3 a 5 páginas tocando los puntos de los capítulos de la primera parte. Entregarlo el 2 de septiembre por correo electrónico (pdf doc o txt).
 
 2. Leer capítulos 4 y 5 del Devaney y realizar los siguientes ejercicios. Cap. 4: 1a, 2b, 4c; Cap. 5: 1d, 1j, 2b, 4e. No es necesario hacer ensayo de esto. Entregar los ejercicios el 9 de septiembre por correo electrónico.
+
+3. [11 de septiembre] Basado en los programas `cantor.py` y `sierpinski.py` hacer los programas `menger.py` y `copo.py` conteniendo los fractales "carpeta de Menger" y "copo de nieve de Koch".
