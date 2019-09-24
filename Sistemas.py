@@ -110,7 +110,7 @@ class Barnsley(Ifs):
 
     def __init__(self):
         super(Barnsley, self).__init__()
-        self.sistema(-2.5,  (0, 1.6), (.85, .85), 0.5)
+        self.sistema(-4.5,  (0, 1.6), (.85, .85), 0.5)
         self.sistema(49,     (0, 1.6), (.3, .34), 0)
         self.sistema(-50,  (0, .44), (.3, .37), 0)
         self.sistema(0,     0,      (0, .16), .1)
@@ -291,14 +291,20 @@ class Mosaiquito2(Ifs):
         super(Mosaiquito2, self).__init__()
         # self.sistema(I,(0,0),1./3)
         t = 5./12
-        self.sistema(I, (0, 1), t)
+        """self.sistema(I, (0, 1), t)
         self.sistema(I, (1, 0), t)
         self.sistema(I, (1, 2), t)
-        self.sistema(I, (2, 1), t)
+        self.sistema(I, (2, 1), t)"""
+        self.sistema(I, (1, 0), t)
+        self.sistema(I, (-1, 0), t)
+        self.sistema(I, (0, 1), t)
+        self.sistema(I, (0, -1), t)
         self.plot("Mosaiquito2")
 
 
-BarnsleyInternet()
+# BarnsleyInternet()
+Barnsley()
+"""BarnsleyInternet()
 Sierpinski()
 Barnsley()
 Devaney()
@@ -309,7 +315,7 @@ Koch2()
 Hexagonos()
 Carpeta()
 # AntiCarpeta()
-Atari()
+# Atari()
 Mosaiquito()
-Vitalis()
-Mosaiquito2()
+# Vitalis()
+Mosaiquito2()"""
