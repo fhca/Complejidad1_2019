@@ -22,3 +22,11 @@ Instrucciones: Todas las tareas por default son para entregarse dos semanas desp
 2. Leer capítulos 4 y 5 del Devaney y realizar los siguientes ejercicios. Cap. 4: 1a, 2b, 4c; Cap. 5: 1d, 1j, 2b, 4e. No es necesario hacer ensayo de esto. Entregar los ejercicios el 9 de septiembre por correo electrónico.
 
 3. [11 de septiembre] Basado en los programas `cantor.py` y `sierpinski.py` hacer los programas `menger.py` y `copo.py` conteniendo los fractales "carpeta de Menger" y "copo de nieve de Koch".
+
+* Ensayo del Mitchell
+* Preguntas del Devaney
+* Modificar programa para tapete y copo de Koch
+* Ver que diverge si modulo > 2
+* Exposición de Fractal de Xaos (simetría, descripción, interpretación, r convergencia)
+* Exposición de tema de complejidad
+* Ensayo de dilema de prisionero de n-personas (funcionamiento y interpretaciónd e resultados)
